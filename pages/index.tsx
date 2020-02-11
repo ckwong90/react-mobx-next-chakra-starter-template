@@ -1,0 +1,1 @@
+export default ({app}) => <div>Hello World {app.hello}</div>
